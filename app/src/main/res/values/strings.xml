@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Texts</string>
+    <string name="button1">Change</string>
+    <string name="blank">--</string>
+    <string name="input">Enter text here!</string>
+    <string name="mood">Mood Ring</string>
+    <string-array name="moods">
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Angry</item>
+        <item>Bored</item>
+    </string-array>
+</resources>
